@@ -4,7 +4,7 @@ Android modder on Platinmods.com
 
 ### Note
 
-Creating an irrelevant issue and/or to ask for contact are subject to be deleted without notice
+Creating an irrelevant issue and/or to ask for contact are subject to be deleted without notice. Refer to my website to find my contact
 
 <!--
 **AndnixSH/AndnixSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
