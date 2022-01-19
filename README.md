@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Creating an irrelevant issue to ask for contact are subject to be deleted
+Android modder on Platinmods.com
+
+### Note
+
+Creating an irrelevant issue and/or to ask for contact are subject to be deleted without notice
 
 <!--
 **AndnixSH/AndnixSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
