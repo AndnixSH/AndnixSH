@@ -14,3 +14,5 @@ Forks I worked on:
 - https://github.com/AndnixSH/APKToolGUI
 - https://github.com/AndnixSH/matlog
 - https://github.com/AndnixSH/Auto-Il2cppDumper
+
+And also pinned repos below
