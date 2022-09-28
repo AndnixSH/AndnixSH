@@ -2,6 +2,10 @@
 
 Android modder on Platinmods.com
 
+### Scam warning
+
+**AndnixSH and AndnixSH1 on Telegram are fake. Please block and report him if you have seen him. I don't use Telegram, it's a full of scam!**
+
 ### My own repos
 
 My repos are really messed up, because I just use it for achive puposes. Why not? :D. If you want to see my own repos, check the following links
