@@ -20,3 +20,7 @@ Forks I worked on:
 - https://github.com/AndnixSH/Auto-Il2cppDumper
 
 And also pinned repos below
+
+### Gists
+
+See: https://gist.github.com/AndnixSH
