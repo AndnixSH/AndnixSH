@@ -24,3 +24,6 @@ And also pinned repos below
 ### Gists
 
 See: https://gist.github.com/AndnixSH
+
+### Stats
+![](https://komarev.com/ghpvc/?username=AndnixSH&color=blue)
