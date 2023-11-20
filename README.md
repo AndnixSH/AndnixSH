@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Android modder on Platinmods.com
+Android modder from Platinmods.com
 
-### Scam warning
-
-**AndnixSH and AndnixSH1 on Telegram are fake. Please block and report him if you have seen him. I don't use Telegram, it's a full of scam!**
+**For privacy and security reason, I do not use social medias, not even Youtube. So if you encounter my name "AndnixSH" on social medias, then it is likely to be fake. Block and report if you have seen them.**
 
 ### Repos
 
