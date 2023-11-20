@@ -2,7 +2,7 @@
 
 Android modder from Platinmods.com
 
-**For privacy and security reason, I do not use social medias, not even Youtube. So if you encounter my name "AndnixSH" on social medias, then it is likely to be fake. Block and report if you have seen them.**
+For privacy and security reason, I don't use social medias, not even Youtube. So if you encounter my name "AndnixSH" on social medias, then it is likely to be fake. Block and report if you have seen them. For contact, visit my website
 
 ### Repos
 
