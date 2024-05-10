@@ -24,6 +24,8 @@ And also pinned repos below
 See: https://gist.github.com/AndnixSH
 
 ### Stats
+![](https://komarev.com/ghpvc/?username=AndnixSH&style=for-the-badge)
+
 <p>
 <a href="https://github.com/alex5402">
 <img src="https://github-readme-stats.vercel.app/api?username=AndnixSH&show_icons=true&theme=dark"/>
