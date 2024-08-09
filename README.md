@@ -2,7 +2,9 @@
 
 Android modder from Platinmods.com
 
-For privacy and security reason, I don't use social medias, not even Youtube. So if you encounter my name "AndnixSH" on social medias, then it is likely to be fake. Block and report if you have seen them. For contact, visit my website
+For privacy and security reason, I don't use social medias, not even Youtube. So if you encounter my name "AndnixSH" on social medias, then it is likely to be fake. Block and report if you have seen them. 
+
+Do not post unrelated issues on any of my projects that are off-topic, they will be closed & locked immediately or deleted.
 
 ### Repos
 
@@ -18,10 +20,6 @@ Forks I worked on:
 - https://github.com/AndnixSH/Auto-Il2cppDumper
 
 And also pinned repos below
-
-### Gists
-
-See: https://gist.github.com/AndnixSH
 
 ### Stats
 ![](https://komarev.com/ghpvc/?username=AndnixSH&style=for-the-badge)
