@@ -8,7 +8,7 @@ Do not under any circumstances post unrelated issues on any of my projects that 
 
 ### Repos
 
-My repos are really messed up, because I just use it for achive puposes. Why not? :D. If you want to see my own repos, check the following links
+My repos are really messed up, because I just use it for archive puposes. Why not? :D. If you want to see my own repos, check the following links
 
 Sources: https://github.com/AndnixSH?tab=repositories&q=&type=source&language=&sort=
 
