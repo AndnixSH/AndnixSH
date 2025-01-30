@@ -2,9 +2,9 @@
 
 Android modder from Platinmods.com
 
-For privacy and security reason, I don't use social medias, not even Youtube. So if you encounter my name "AndnixSH" on social medias, then it is likely to be fake. Block and report if you have seen them. 
+For privacy and security reason, I don't use social medias, not even Youtube. So if you encounter my name "AndnixSH" on social medias, then it is fake. I recommend not to interact with them. 
 
-Do not under any circumstances post unrelated issues on any of my projects that are off-topic, they will be closed & locked, or deleted immediately!
+Please do not under any circumstances post unrelated issues on any of my projects that are off-topic, they will be closed & locked, or deleted immediately!
 
 ### Repos
 
